@@ -92,6 +92,3 @@ FROM bitnami/cert-manager:1.7.2-debian-10-r12
 
 # Tags: 1.7.2-debian-10-r11
 FROM bitnami/cert-manager:1.7.2-debian-10-r11
-
-# Tags: 1.7.2-debian-10-r10
-FROM bitnami/cert-manager:1.7.2-debian-10-r10
